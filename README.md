@@ -61,7 +61,8 @@ endmodule
 
 
 
-Developed by:Rohith V RegisterNumber:24900447
+Developed by: Syed Abu Hanifa. L 
+RegisterNumber: 212224040346
 
 
 **RTL LOGIC FOR FLIPFLOPS**
